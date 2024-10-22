@@ -1,0 +1,10 @@
+{
+    "brand": "Dell",
+    "model": "Inspiron 15",
+    "year": 2023,
+    "isTouchscreen": false,
+    "battery": "Lithium-ion battery",
+    "screen": "15 inch",
+    "processor": "AMD Ryzen",
+    "devices": ["touchpad","webcam"]
+}

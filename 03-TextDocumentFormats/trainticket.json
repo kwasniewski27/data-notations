@@ -1,0 +1,12 @@
+[
+    {
+        "take off":16.15,
+        "line": "intercity",
+        "change city": "Wrocław",
+        "change city arrival": 19.16,
+        "change city take off":19.29,
+        "line2": "KD",
+        "final destination": "Berlin",
+        "final destination arrival":23.51
+    }
+]

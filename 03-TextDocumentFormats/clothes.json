@@ -53,5 +53,27 @@
             "Outerwear",
             "Accessories"
         ]
+    },
+    {
+        "name": "Puma",
+        "founded": 1948,
+        "headquarters": "Herzogenaurach, Germany",
+        "employees": 10000,
+        "products": [
+            "Sportswear",
+            "Footwear",
+            "Accessories"
+        ]
+    },
+    {
+        "name": "Bershka",
+        "founded": 1998,
+        "headquarters": "Inditex, Spain",
+        "employees": 89000,
+        "products": [
+            "Fashion Apparel",
+            "Footwear",
+            "Accessories"
+        ]
     }
 ]
