@@ -8,7 +8,6 @@
             <camera> unit="MP"50</camera>
         </specs>
         <price> currency="USD"799</price>
-    </smartphone>
 </smartphones>
 <smartphones>
     <smartphone> brand="Iphone" model="13" releaseYear="2021"</smartphone>
