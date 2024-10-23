@@ -12,7 +12,7 @@
         <another_advantage>eco friendly</another_advantage>
         <another_disadvantage>you may not sit</another_disadvantage>
     </transport>
-    <transport mean="train" opinion"i like it">
+    <transport mean="train" opinion="i like it">
         <advantage>cheap</advantage>
         <disadvantage>sometimes overflowed</disadvantage>
         <another_advantage>very fast</another_advantage>
