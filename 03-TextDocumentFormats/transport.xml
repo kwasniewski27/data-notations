@@ -1,27 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mean_of_transport>
-    <transport>
-        <mean>car</mean>
+    <transport mean="car" opinion="i like it">
         <advantage>fast</advantage>
         <disadvantage>not eco friendly</disadvantage>
-        <problem>lots of trafic</problem>
-        <brand>mazda</brand>
-        <opinion>i like it</opinion>
+        <another_advantage>comfy</another_advantage>
+        <another_disadvantage>lots of trafic</another_disadvantage>
     </transport>
-    <transport>
-        <mean>bus</mean>
+    <transport mean = "bus" opinion="i dont like">
         <advantage>cheap</advantage>
         <disadvantage>overflowed</disadvantage>
         <another_advantage>eco friendly</another_advantage>
         <another_disadvantage>you may not sit</another_disadvantage>
-        <opinion>i don't like it</opinion>
     </transport>
-    <transport>
-        <mean>train</mean>
+    <transport mean="train" opinion"i like it">
         <advantage>cheap</advantage>
         <disadvantage>sometimes overflowed</disadvantage>
         <another_advantage>very fast</another_advantage>
         <another_disadvantage>it can be delayed</another_disadvantage>
-        <opinion>i like it</opinion>
     </transport>
 </mean_of_transport>
